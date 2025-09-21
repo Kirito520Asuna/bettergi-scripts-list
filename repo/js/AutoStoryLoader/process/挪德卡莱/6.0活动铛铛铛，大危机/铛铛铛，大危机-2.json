@@ -1,0 +1,41 @@
+{
+  "info": {
+    "name": "铛铛铛，大危机-2",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9885.212890625,
+      "y": 1718.35302734375,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 9890.337890625,
+      "y": 1713.44873046875,
+      "action": "",
+      "move_mode": "fly",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9914.15234375,
+      "y": 1690.61669921875,
+      "action": "stop_flying",
+      "move_mode": "fly",
+      "action_params": "w(5)",
+      "type": "path",
+      "optimize": false
+    }
+  ]
+}

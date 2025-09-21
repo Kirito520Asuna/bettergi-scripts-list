@@ -1,0 +1,161 @@
+﻿{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757856739767,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "咚咚咚，大阴谋-7",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "combat_script",
+      "action_params": "wait(60)",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10436.9951171875,
+      "y": 1762.60498046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10439.693359375,
+      "y": 1760.49560546875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10436.599609375,
+      "y": 1759.833984375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10426.67578125,
+      "y": 1746.01318359375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10424,
+      "y": 1747.90478515625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 10426.693359375,
+      "y": 1747.060546875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10438.375,
+      "y": 1768.7646484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10452.4345703125,
+      "y": 1796.24560546875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10451.2861328125,
+      "y": 1798.2587890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10452.666015625,
+      "y": 1793.71484375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 10452.2041015625,
+      "y": 1792.919921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10436.228515625,
+      "y": 1766.5908203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10427.458984375,
+      "y": 1764.13623046875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10424.458984375,
+      "y": 1763.80712890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10354.88671875,
+      "y": 1802.77001953125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3),keypress(T),wait(0.3)",
+      "id": 16,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 10355.59765625,
+      "y": 1802.64697265625
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "info": {
+    "name": "铛铛铛，大危机-8",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9458.025390625,
+      "y": 1660.62939453125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 9463.912109375,
+      "y": 1659.60546875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9467.2236328125,
+      "y": 1655.287109375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9465.951171875,
+      "y": 1649.890625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 9451.8037109375,
+      "y": 1649.4052734375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 6,
+      "x": 9431.599609375,
+      "y": 1658.07373046875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

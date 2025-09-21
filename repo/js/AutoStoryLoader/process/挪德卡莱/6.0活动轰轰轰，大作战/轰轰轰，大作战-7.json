@@ -1,0 +1,49 @@
+{
+  "info": {
+    "name": "轰轰轰，大作战-7",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9315.091796875,
+      "y": 3543.506103515625,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 9345.357421875,
+      "y": 3551.050537109375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9366.27734375,
+      "y": 3562.741943359375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9450.14453125,
+      "y": 3547.6298828125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "info": {
+    "name": "轰轰轰，大作战-2",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 10020.0703125,
+      "y": 1537.9482421875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 10013.849609375,
+      "y": 1546.92919921875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 10006.3173828125,
+      "y": 1568.814453125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9985.01953125,
+      "y": 1592.57177734375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 9967.572265625,
+      "y": 1630.27099609375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 6,
+      "x": 9962.6953125,
+      "y": 1648.8896484375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 7,
+      "x": 9981.515625,
+      "y": 1653.80615234375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 8,
+      "x": 9981.5615234375,
+      "y": 1656.01171875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 9,
+      "x": 9977.7666015625,
+      "y": 1663.908203125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 10,
+      "x": 9957.93359375,
+      "y": 1674.97314453125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 11,
+      "x": 9966.30859375,
+      "y": 1678.54541015625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "w(5)",
+      "type": "path",
+      "optimize": false
+    }
+  ]
+}

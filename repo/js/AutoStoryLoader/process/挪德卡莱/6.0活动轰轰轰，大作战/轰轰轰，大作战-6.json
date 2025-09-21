@@ -1,0 +1,67 @@
+{
+  "info": {
+    "name": "轰轰轰，大作战-6",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9055.8173828125,
+      "y": 2441.063232421875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 2,
+      "x": 9053.958984375,
+      "y": 2446.11376953125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9047.1884765625,
+      "y": 2448.541748046875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9031.09765625,
+      "y": 2442.875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 9031.724609375,
+      "y": 2434.164794921875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 6,
+      "x": 9037.8134765625,
+      "y": 2430.873291015625,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "info": {
+    "name": "咚咚咚，大阴谋-1",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9458.029296875,
+      "y": 1660.6357421875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 9465.48828125,
+      "y": 1656.92529296875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9466.2900390625,
+      "y": 1652.73779296875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

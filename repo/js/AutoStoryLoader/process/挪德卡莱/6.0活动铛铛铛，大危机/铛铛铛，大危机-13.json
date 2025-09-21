@@ -1,0 +1,49 @@
+{
+  "info": {
+    "name": "铛铛铛，大危机-13",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9367.166015625,
+      "y": 1435.6357421875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 9356.2392578125,
+      "y": 1473.947265625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9353.0234375,
+      "y": 1472.92333984375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9350.4580078125,
+      "y": 1453.1044921875,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "info": {
+    "name": "轰轰轰，大作战-9",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9451.25,
+      "y": 3542.936767578125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 2,
+      "x": 9445.720703125,
+      "y": 3544.474609375,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

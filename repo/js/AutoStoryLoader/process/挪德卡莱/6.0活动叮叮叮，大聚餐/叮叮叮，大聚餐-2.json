@@ -1,0 +1,77 @@
+{
+  "info": {
+    "name": "叮叮叮，大聚餐-2",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 10018.35546875,
+      "y": 1539.2958984375,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 10005.541015625,
+      "y": 1568.58349609375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9988.30078125,
+      "y": 1586.9599609375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9970.427734375,
+      "y": 1619.537109375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 9960.724609375,
+      "y": 1650.09619140625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 6,
+      "x": 9950.4521484375,
+      "y": 1656.60302734375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 7,
+      "x": 9942.42578125,
+      "y": 1655.39013671875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "w(5)",
+      "type": "path",
+      "optimize": false
+    }
+  ]
+}

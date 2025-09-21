@@ -1,0 +1,108 @@
+﻿{
+  "info": {
+    "author": "",
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757852415330,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "铛铛铛，大危机-4",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9940.146484375,
+      "y": 1742.83740234375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F),wait(0.3)",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9928.013671875,
+      "y": 1715.85595703125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9916.830078125,
+      "y": 1711.32958984375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9919.265625,
+      "y": 1727.4521484375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9927.078125,
+      "y": 1742.53955078125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9927.419921875,
+      "y": 1751.68212890625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9924.232421875,
+      "y": 1749.01220703125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9917.701171875,
+      "y": 1717.45458984375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9919.263671875,
+      "y": 1712.61962890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9925.453125,
+      "y": 1711.6064453125
+    }
+  ]
+}

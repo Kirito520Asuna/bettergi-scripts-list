@@ -1,0 +1,184 @@
+{
+  "info": {
+    "name": "轰轰轰，大作战-8",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 9450.0654296875,
+      "y": 3547.620361328125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 2,
+      "x": 9447.9365234375,
+      "y": 3543.076416015625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 9452.494140625,
+      "y": 3545.59228515625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9448.712890625,
+      "y": 3537.7734375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 9445.279296875,
+      "y": 3540.05859375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 6,
+      "x": 9448.029296875,
+      "y": 3546.2890625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 7,
+      "x": 9449.1611328125,
+      "y": 3535.476318359375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 8,
+      "x": 9459.07421875,
+      "y": 3536.2021484375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 9,
+      "x": 9456.8515625,
+      "y": 3540.635986328125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 10,
+      "x": 9453.724609375,
+      "y": 3538.73095703125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 11,
+      "x": 9452.8349609375,
+      "y": 3526.052490234375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 12,
+      "x": 9451.2841796875,
+      "y": 3533.2978515625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 13,
+      "x": 9454.7783203125,
+      "y": 3541.58056640625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 14,
+      "x": 9451.978515625,
+      "y": 3546.202880859375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 15,
+      "x": 9454.982421875,
+      "y": 3548.943359375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 16,
+      "x": 9445.1171875,
+      "y": 3545.62353515625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 17,
+      "x": 9451.212890625,
+      "y": 3546.032470703125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 18,
+      "x": 9447.556640625,
+      "y": 3546.82861328125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 19,
+      "x": 9450.99609375,
+      "y": 3543.149658203125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    }
+  ]
+}

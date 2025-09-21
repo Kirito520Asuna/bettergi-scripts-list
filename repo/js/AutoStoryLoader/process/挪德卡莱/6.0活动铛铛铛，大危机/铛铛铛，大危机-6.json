@@ -1,0 +1,104 @@
+{
+  "info": {
+    "name": "铛铛铛，大危机-6",
+    "type": "collect",
+    "author": "",
+    "version": "1.0",
+    "description": "",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 10018.3544921875,
+      "y": 1539.26611328125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 10013.3935546875,
+      "y": 1545.2109375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 10004.279296875,
+      "y": 1569.7578125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 9986.884765625,
+      "y": 1590.86376953125,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 9970.5947265625,
+      "y": 1620.7890625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 6,
+      "x": 9960.71875,
+      "y": 1649.29052734375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 7,
+      "x": 9982.4365234375,
+      "y": 1653.39990234375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 8,
+      "x": 9977.0126953125,
+      "y": 1666.43896484375,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 9,
+      "x": 9992.27734375,
+      "y": 1669.994140625,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 10,
+      "x": 10007.7568359375,
+      "y": 1667.29296875,
+      "action": "",
+      "move_mode": "dash",
+      "action_params": "w(5)",
+      "type": "path",
+      "optimize": false
+    }
+  ]
+}
