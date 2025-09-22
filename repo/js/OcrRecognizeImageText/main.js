@@ -86,7 +86,7 @@ async function drawAndClearRedBox(result, delay) {
     }
 }
 
-eval(readFile("./utils/ImageTextUtils.js"));
+eval(file.readTextSync("./utils/ImageTextUtils.js"));
     // 主函数
 (async function () {
         setGameMetrics(1920, 1080, 1);
