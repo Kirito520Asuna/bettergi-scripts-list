@@ -38,7 +38,7 @@ const login_verification = {
     template:RecognitionObject.TemplateMatch(file.ReadImageMatSync("assets/verification.png")),
     name: "verification.png"
 };
-
+eval(file.readTextSync('utils/uid.js'))
 async function clickCenter(x, y, width, height) {
     let centerX = Math.round(x + width / 2);
     let centerY = Math.round(y + height / 2);
@@ -100,7 +100,6 @@ async function recognizeTextAndClick(targetText, ocrRegion, timeout = 8000) {
     }
     return {success: false };
 }
-eval(file.readTextSync('utils/uid.js'))
 /**
  * main流程开始
  */
