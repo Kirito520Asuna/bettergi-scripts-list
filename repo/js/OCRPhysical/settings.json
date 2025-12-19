@@ -1,0 +1,19 @@
+[
+    {
+      "name": "url",
+      "type": "input-text",
+      "label": "图片地址",
+      "default": ""
+    },
+    {
+      "name": "openOcr",
+      "type": "checkbox",
+      "label": "开启OCR",
+    },
+    {
+      "name": "minPhysical",
+      "type": "input-text",
+      "label": "最小可执行体力值",
+      "default": "20"
+    }
+  ]

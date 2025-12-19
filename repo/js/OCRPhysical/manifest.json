@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "name": "体力检测",
+  "version": "1.0",
+  "description": "体力检测",
+  "settings_ui": "settings.json",
+  "authors": [
+    {
+      "name": "云端客",
+      "links": "https://github.com/Kirito520Asuna"
+    }
+  ],
+  "main": "main.js"
+}
