@@ -100,7 +100,7 @@ async function recognizeTextAndClick(targetText, ocrRegion, timeout = 8000) {
     }
     return {success: false };
 }
-eval(file.readPathSync("utils/uid.js"))
+eval(file.readTextSync('utils/uid.js'))
 /**
  * main流程开始
  */
