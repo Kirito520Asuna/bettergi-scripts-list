@@ -1,4 +1,4 @@
-const commonPath = 'Assets/RecognitionObject/'
+const commonPath = 'assets/'
 const commonMap = new Map([
     ['main_ui', {
         path: `${commonPath}`,
