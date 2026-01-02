@@ -53,7 +53,7 @@ jobs:
           
           TARGET_SYNC_BRANCH="${{ github.event.inputs.target_branch || secrets.TARGET_BRANCH || 'main' }}"
           echo "TARGET_SYNC_BRANCH=$TARGET_SYNC_BRANCH" >> $GITHUB_ENV
-          ENABLE_UPSTREAM_SYNC="${{ github.event.inputs.enable_upstream_sync || secrets.ENABLE_UPSTREAM_SYNC || 'false' }}"
+          ENABLE_UPSTREAM_SYNC="${{ github.event.inputs.enable_upstream_sync || secrets.ENABLE_UPSTREAM_SYNC || 'true' }}"
           echo "ENABLE_UPSTREAM_SYNC=$ENABLE_UPSTREAM_SYNC" >> $GITHUB_ENV
           echo "SYNC_MODE=${{ github.event.inputs.sync_mode || 'rebase' }}" >> $GITHUB_ENV
           
