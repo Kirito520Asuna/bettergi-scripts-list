@@ -21,6 +21,11 @@ async function ocr() {
     log.info(`图标 ${imagePath} 的坐标: x=${result.x}, y=${result.y}, width=${result.width}, height=${result.height}，识图范围推荐: ${result.x - 1}, ${result.y - 1}, ${result.width + 2}, ${result.height + 2}`);
 
     await sleep(50); // 确保识别之间有足够的时间间隔
+    let recognitionObjectOcr = RecognitionObject.Ocr(result.x-1, result.y-1, result.width+2, result.height+2);
+    let region = captureGameRegion()
+    let res = region.find(recognitionObjectOcr);
+    region.Dispose()
+    log.info(`[-]识别结果: ${res.text}, 原始坐标: x=${res.x}, y=${res.y},width:${res.width},height:${res.height}`);
 }
 //====================
 const genshinJson = {
