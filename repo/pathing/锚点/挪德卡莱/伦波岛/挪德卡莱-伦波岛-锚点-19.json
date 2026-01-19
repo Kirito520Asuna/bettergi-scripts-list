@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768835454681,
+    "last_modified_time": 1768849908335,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-伦波岛-锚点_10",
+    "name": "挪德卡莱-伦波岛-锚点-19",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,17 +24,17 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9359.6552734375,
-      "y": 1856.64404296875
+      "x": 9247.91015625,
+      "y": 2349.98583984375
     },
     {
-      "action": "",
-      "action_params": "",
+      "action": "stop_flying",
+      "action_params": "200",
       "id": 2,
-      "move_mode": "walk",
+      "move_mode": "fly",
       "type": "path",
-      "x": 9301.31640625,
-      "y": 1889.18603515625
+      "x": 9264.4130859375,
+      "y": 2364.8447265625
     },
     {
       "action": "",
@@ -42,17 +42,35 @@
       "id": 3,
       "move_mode": "walk",
       "type": "path",
-      "x": 9246.5,
-      "y": 1884.47998046875
+      "x": 9288.9541015625,
+      "y": 2371.37841796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9306.755859375,
+      "y": 2405.4931640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9265.02734375,
+      "y": 2465.34228515625
     },
     {
       "action": "combat_script",
       "action_params": "wait(1);keypress(F);",
-      "id": 4,
+      "id": 6,
       "move_mode": "walk",
       "type": "path",
-      "x": 9221.19921875,
-      "y": 1901.34423828125
+      "x": 9266.275390625,
+      "y": 2478.1064453125
     }
   ]
 }

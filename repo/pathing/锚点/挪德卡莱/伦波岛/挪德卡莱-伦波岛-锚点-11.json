@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768835415681,
+    "last_modified_time": 1768849935394,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-伦波岛-锚点_05",
+    "name": "挪德卡莱-伦波岛-锚点-11",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9726.70703125,
-      "y": 1808.38037109375
+      "x": 9370.046875,
+      "y": 1865.1640625
     },
     {
       "action": "",
@@ -33,8 +33,8 @@
       "id": 2,
       "move_mode": "walk",
       "type": "path",
-      "x": 9757.302734375,
-      "y": 1855.20751953125
+      "x": 9383.1640625,
+      "y": 1909.38671875
     },
     {
       "action": "",
@@ -42,35 +42,44 @@
       "id": 3,
       "move_mode": "walk",
       "type": "path",
-      "x": 9753.765625,
-      "y": 1862.0732421875
+      "x": 9393.8759765625,
+      "y": 1974.66650390625
     },
     {
-      "action": "stop_flying",
+      "action": "",
       "action_params": "",
       "id": 4,
-      "move_mode": "fly",
+      "move_mode": "walk",
       "type": "path",
-      "x": 9734.71484375,
-      "y": 1905.53271484375
+      "x": 9394.421875,
+      "y": 1993.1533203125
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(1);keypress(F);",
+      "action": "",
+      "action_params": "",
       "id": 5,
       "move_mode": "walk",
       "type": "path",
-      "x": 9743.796875,
-      "y": 1911.6640625
+      "x": 9389.275390625,
+      "y": 2033.25390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9360.640625,
+      "y": 2074.1875
     },
     {
       "action": "combat_script",
       "action_params": "wait(1);keypress(F);",
-      "id": 6,
+      "id": 7,
       "move_mode": "walk",
       "type": "path",
-      "x": 9743.796875,
-      "y": 1911.6640625
+      "x": 9354.48828125,
+      "y": 2107.84326171875
     }
   ]
 }

@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768835477649,
+    "last_modified_time": 1768849906584,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-伦波岛-锚点_15",
+    "name": "挪德卡莱-伦波岛-锚点-20",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9096.431640625,
-      "y": 2296.78564453125
+      "x": 9208.169921875,
+      "y": 2526.283203125
     },
     {
       "action": "",
@@ -33,8 +33,8 @@
       "id": 2,
       "move_mode": "walk",
       "type": "path",
-      "x": 9094.61328125,
-      "y": 2314.8349609375
+      "x": 9181.3271484375,
+      "y": 2565.9833984375
     },
     {
       "action": "",
@@ -42,8 +42,8 @@
       "id": 3,
       "move_mode": "walk",
       "type": "path",
-      "x": 9064.6279296875,
-      "y": 2333.9140625
+      "x": 9184.5400390625,
+      "y": 2598.34765625
     },
     {
       "action": "",
@@ -51,8 +51,8 @@
       "id": 4,
       "move_mode": "walk",
       "type": "path",
-      "x": 9021.314453125,
-      "y": 2304.25830078125
+      "x": 9200.3203125,
+      "y": 2660.96484375
     },
     {
       "action": "",
@@ -60,26 +60,62 @@
       "id": 5,
       "move_mode": "walk",
       "type": "path",
-      "x": 9008.1162109375,
-      "y": 2237.47314453125
+      "x": 9264.671875,
+      "y": 2669.7060546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9273.890625,
+      "y": 2678.7431640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9273.05859375,
+      "y": 2733.27685546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9196.943359375,
+      "y": 2821.103515625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(5);",
+      "id": 9,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9187.0400390625,
+      "y": 2840.3369140625
     },
     {
       "action": "stop_flying",
       "action_params": "200",
-      "id": 6,
+      "id": 10,
       "move_mode": "fly",
       "type": "path",
-      "x": 8844.080078125,
-      "y": 2203.9052734375
+      "x": 9187.0400390625,
+      "y": 2840.3369140625
     },
     {
       "action": "combat_script",
       "action_params": "wait(1);keypress(F);",
-      "id": 7,
+      "id": 11,
       "move_mode": "walk",
       "type": "path",
-      "x": 8839.1220703125,
-      "y": 2206.3876953125
+      "x": 9187.8408203125,
+      "y": 2844.955078125
     }
   ]
 }

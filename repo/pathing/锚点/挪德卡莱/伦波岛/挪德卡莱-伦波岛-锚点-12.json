@@ -1,0 +1,49 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768849927505,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-伦波岛-锚点-12",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9354.779296875,
+      "y": 2107.337890625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 2,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9547.53125,
+      "y": 2122.3544921875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9558.130859375,
+      "y": 2132.3330078125
+    }
+  ]
+}

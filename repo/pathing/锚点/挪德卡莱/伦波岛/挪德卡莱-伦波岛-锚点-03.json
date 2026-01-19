@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768835443981,
+    "last_modified_time": 1768849955464,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-伦波岛-锚点_07",
+    "name": "挪德卡莱-伦波岛-锚点-03",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9711.1689453125,
-      "y": 1803.52685546875
+      "x": 9531.0673828125,
+      "y": 1628.13525390625
     },
     {
       "action": "",
@@ -33,35 +33,35 @@
       "id": 2,
       "move_mode": "walk",
       "type": "path",
-      "x": 9743.724609375,
-      "y": 1790.66943359375
+      "x": 9541.466796875,
+      "y": 1628.8095703125
     },
     {
       "action": "",
       "action_params": "",
       "id": 3,
-      "move_mode": "walk",
+      "move_mode": "fly",
       "type": "path",
-      "x": 9776.93359375,
-      "y": 1778.5244140625
+      "x": 9580.01171875,
+      "y": 1643.42626953125
     },
     {
-      "action": "",
+      "action": "stop_flying",
       "action_params": "",
       "id": 4,
-      "move_mode": "walk",
+      "move_mode": "fly",
       "type": "path",
-      "x": 9785.654296875,
-      "y": 1762.41650390625
+      "x": 9633.416015625,
+      "y": 1664.32177734375
     },
     {
-      "action": "",
+      "action": "stop_flying",
       "action_params": "",
       "id": 5,
-      "move_mode": "walk",
+      "move_mode": "fly",
       "type": "path",
-      "x": 9814.408203125,
-      "y": 1750.96826171875
+      "x": 9658.990234375,
+      "y": 1679.7265625
     },
     {
       "action": "",
@@ -69,8 +69,8 @@
       "id": 6,
       "move_mode": "walk",
       "type": "path",
-      "x": 9828.9521484375,
-      "y": 1744.96923828125
+      "x": 9664.982421875,
+      "y": 1704.384765625
     },
     {
       "action": "",
@@ -78,44 +78,26 @@
       "id": 7,
       "move_mode": "walk",
       "type": "path",
-      "x": 9832.146484375,
-      "y": 1739.689453125
-    },
-    {
-      "action": "",
-      "action_params": "",
-      "id": 8,
-      "move_mode": "walk",
-      "type": "path",
-      "x": 9834.33203125,
-      "y": 1736.36962890625
-    },
-    {
-      "action": "",
-      "action_params": "",
-      "id": 9,
-      "move_mode": "walk",
-      "type": "path",
-      "x": 9853.17578125,
-      "y": 1725.1435546875
-    },
-    {
-      "action": "",
-      "action_params": "",
-      "id": 10,
-      "move_mode": "walk",
-      "type": "path",
-      "x": 9873.9296875,
-      "y": 1720.81298828125
+      "x": 9656.96484375,
+      "y": 1727.80810546875
     },
     {
       "action": "combat_script",
-      "action_params": "wait(1);keypress(F);",
-      "id": 11,
+      "action_params": "keypress(F);wait(1);",
+      "id": 8,
       "move_mode": "walk",
       "type": "path",
-      "x": 9873.912109375,
-      "y": 1717.71484375
+      "x": 9657.3984375,
+      "y": 1729.65966796875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F);wait(1);",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9657.3984375,
+      "y": 1729.65966796875
     }
   ]
 }
