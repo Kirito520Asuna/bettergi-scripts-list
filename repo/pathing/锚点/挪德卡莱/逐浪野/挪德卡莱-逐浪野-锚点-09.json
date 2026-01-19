@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768845081126,
+    "last_modified_time": 1768849293018,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-逐浪野-锚点-0_10",
+    "name": "挪德卡莱-逐浪野-锚点-09",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9775.111328125,
-      "y": 5817.21484375
+      "x": 9707.359375,
+      "y": 5673.42822265625
     },
     {
       "action": "",
@@ -33,8 +33,8 @@
       "id": 2,
       "move_mode": "walk",
       "type": "path",
-      "x": 9758.890625,
-      "y": 5811.86279296875
+      "x": 9716.279296875,
+      "y": 5742.66796875
     },
     {
       "action": "",
@@ -42,17 +42,17 @@
       "id": 3,
       "move_mode": "walk",
       "type": "path",
-      "x": 9682.978515625,
-      "y": 5842.935546875
+      "x": 9660.564453125,
+      "y": 5767.7734375
     },
     {
       "action": "",
       "action_params": "",
       "id": 4,
-      "move_mode": "climb",
+      "move_mode": "walk",
       "type": "path",
-      "x": 9623.94921875,
-      "y": 5871.1044921875
+      "x": 9628.689453125,
+      "y": 5779.79345703125
     },
     {
       "action": "",
@@ -60,35 +60,26 @@
       "id": 5,
       "move_mode": "walk",
       "type": "path",
-      "x": 9607.9306640625,
-      "y": 5877.82666015625
-    },
-    {
-      "action": "",
-      "action_params": "",
-      "id": 6,
-      "move_mode": "walk",
-      "type": "path",
-      "x": 9595.224609375,
-      "y": 5871.541015625
+      "x": 9592.810546875,
+      "y": 5769.083984375
     },
     {
       "action": "stop_flying",
-      "action_params": "2500",
-      "id": 7,
+      "action_params": "1500",
+      "id": 6,
       "move_mode": "fly",
       "type": "path",
-      "x": 9541.10546875,
-      "y": 5866.4189453125
+      "x": 9522.205078125,
+      "y": 5736.33740234375
     },
     {
       "action": "combat_script",
       "action_params": "wait(1);keypress(F);",
-      "id": 8,
+      "id": 7,
       "move_mode": "walk",
       "type": "path",
-      "x": 9540.3828125,
-      "y": 5864.91796875
+      "x": 9514.5400390625,
+      "y": 5734.1318359375
     }
   ]
 }

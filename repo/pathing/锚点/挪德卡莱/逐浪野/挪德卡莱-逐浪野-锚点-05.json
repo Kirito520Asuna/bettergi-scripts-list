@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768843957659,
+    "last_modified_time": 1768849279133,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-逐浪野-锚点-0_6",
+    "name": "挪德卡莱-逐浪野-锚点-05",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -22,11 +22,10 @@
       "action": "force_tp",
       "action_params": "",
       "id": 1,
-      "locked": false,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9727.41796875,
-      "y": 5441.4482421875
+      "x": 9926.3701171875,
+      "y": 5716.326171875
     },
     {
       "action": "",
@@ -34,17 +33,17 @@
       "id": 2,
       "move_mode": "walk",
       "type": "path",
-      "x": 9747.1767578125,
-      "y": 5408.072265625
+      "x": 9944.8505859375,
+      "y": 5756.6875
     },
     {
-      "action": "stop_flying",
-      "action_params": "200",
+      "action": "",
+      "action_params": "",
       "id": 3,
-      "move_mode": "fly",
+      "move_mode": "walk",
       "type": "path",
-      "x": 9836.455078125,
-      "y": 5279.9521484375
+      "x": 10017.921875,
+      "y": 5791.21875
     },
     {
       "action": "",
@@ -52,17 +51,89 @@
       "id": 4,
       "move_mode": "walk",
       "type": "path",
-      "x": 9846.119140625,
-      "y": 5276.1845703125
+      "x": 10037.8134765625,
+      "y": 5796.447265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10064,
+      "y": 5788.1533203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10150.955078125,
+      "y": 5822.14501953125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10156.1787109375,
+      "y": 5842.30517578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10161.88671875,
+      "y": 5850.6103515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10191.5546875,
+      "y": 5843.4384765625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10198.2578125,
+      "y": 5816.71337890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10250.19921875,
+      "y": 5805.9248046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10259.634765625,
+      "y": 5801.787109375
     },
     {
       "action": "combat_script",
       "action_params": "wait(1);keypress(F);",
-      "id": 5,
+      "id": 13,
       "move_mode": "walk",
       "type": "path",
-      "x": 9847.171875,
-      "y": 5273.275390625
+      "x": 10274.9951171875,
+      "y": 5760.20166015625
     }
   ]
 }

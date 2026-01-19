@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768844109750,
+    "last_modified_time": 1768849281897,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "挪德卡莱-逐浪野-锚点-0_7",
+    "name": "挪德卡莱-逐浪野-锚点-06",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9681.296875,
-      "y": 5563.85546875
+      "x": 9727.41796875,
+      "y": 5441.4482421875
     },
     {
       "action": "",
@@ -33,26 +33,35 @@
       "id": 2,
       "move_mode": "walk",
       "type": "path",
-      "x": 9674.9296875,
-      "y": 5611.1591796875
+      "x": 9747.1767578125,
+      "y": 5408.072265625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 3,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9836.455078125,
+      "y": 5279.9521484375
     },
     {
       "action": "",
       "action_params": "",
-      "id": 3,
+      "id": 4,
       "move_mode": "walk",
       "type": "path",
-      "x": 9704.447265625,
-      "y": 5674.14453125
+      "x": 9846.119140625,
+      "y": 5276.1845703125
     },
     {
       "action": "combat_script",
       "action_params": "wait(1);keypress(F);",
-      "id": 4,
+      "id": 5,
       "move_mode": "walk",
       "type": "path",
-      "x": 9703.439453125,
-      "y": 5675.8037109375
+      "x": 9847.171875,
+      "y": 5273.275390625
     }
   ]
 }
