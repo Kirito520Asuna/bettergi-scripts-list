@@ -1,0 +1,85 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768848906857,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "诺德卡莱-烟硌山峰-锚点-03",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9870.8828125,
+      "y": 6075.6533203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9940.48046875,
+      "y": 6068.5888671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9963.689453125,
+      "y": 6093.07763671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9967.5986328125,
+      "y": 6114.5107421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9955.3984375,
+      "y": 6198.2412109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9952.125,
+      "y": 6219.10009765625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9963.541015625,
+      "y": 6217.25927734375
+    }
+  ]
+}

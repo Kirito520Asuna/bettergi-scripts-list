@@ -1,0 +1,104 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768848925574,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "诺德卡莱-烟硌山峰-锚点-07",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 10100.109375,
+      "y": 6342.0419921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10128.037109375,
+      "y": 6369.880859375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 10147.083984375,
+      "y": 6372.65380859375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "run",
+      "type": "path",
+      "x": 10165.6455078125,
+      "y": 6368.08984375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 10196.09765625,
+      "y": 6368.2314453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10216.0361328125,
+      "y": 6367.7734375
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 7,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 10277.6728515625,
+      "y": 6360.7822265625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10288.47265625,
+      "y": 6352.1923828125
+    },
+    {
+      "action": "log_output",
+      "action_params": "剩下一个需要做任务",
+      "id": 9,
+      "locked": true,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9902.673828125,
+      "y": 5911.212890625
+    }
+  ]
+}
