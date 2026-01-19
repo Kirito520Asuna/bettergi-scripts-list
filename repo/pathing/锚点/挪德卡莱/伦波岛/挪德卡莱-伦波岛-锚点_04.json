@@ -1,0 +1,121 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768835420061,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-伦波岛-锚点_04",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9657.3984375,
+      "y": 1729.65966796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9647.728515625,
+      "y": 1740.21484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9650.134765625,
+      "y": 1761.0693359375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9643.20703125,
+      "y": 1776.29443359375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9630.37109375,
+      "y": 1800.3857421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9655.1474609375,
+      "y": 1812.05126953125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9672.4814453125,
+      "y": 1818.37646484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9699.765625,
+      "y": 1812.27392578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9720.4091796875,
+      "y": 1800.203125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F);wait(1);",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9726.70703125,
+      "y": 1808.38037109375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F);wait(1);",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9726.70703125,
+      "y": 1808.38037109375
+    }
+  ]
+}

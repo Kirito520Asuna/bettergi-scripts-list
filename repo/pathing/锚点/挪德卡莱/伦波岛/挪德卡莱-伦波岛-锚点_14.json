@@ -1,0 +1,139 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768835460459,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-伦波岛-锚点_14",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9230.486328125,
+      "y": 2238.80224609375
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9218.203125,
+      "y": 2256.4501953125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9201.798828125,
+      "y": 2250.04248046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9197.38671875,
+      "y": 2238.90087890625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 5,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9186.689453125,
+      "y": 2228.48193359375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9177.662109375,
+      "y": 2229.763671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9154.1884765625,
+      "y": 2223.54443359375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9123.3203125,
+      "y": 2233.01953125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9110.40625,
+      "y": 2240.75927734375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9113.453125,
+      "y": 2248.4658203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9108.978515625,
+      "y": 2290.60009765625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9096.1259765625,
+      "y": 2297.8349609375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9096.431640625,
+      "y": 2296.78564453125
+    }
+  ]
+}

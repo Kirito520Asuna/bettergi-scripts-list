@@ -1,0 +1,85 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768835405480,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-伦波岛-锚点_01",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9485.634765625,
+      "y": 1738.17333984375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9449.525390625,
+      "y": 1706.0703125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9419.88671875,
+      "y": 1683.02880859375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9435.177734375,
+      "y": 1649.7822265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9466.3837890625,
+      "y": 1651.10791015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9462.9296875,
+      "y": 1660.27880859375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9453.404296875,
+      "y": 1660.8076171875
+    }
+  ]
+}

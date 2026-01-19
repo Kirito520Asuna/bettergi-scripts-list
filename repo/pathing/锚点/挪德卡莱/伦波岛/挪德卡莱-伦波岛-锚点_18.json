@@ -1,0 +1,202 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768835482000,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-伦波岛-锚点_18",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9099.3154296875,
+      "y": 2296.11865234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9104.5810546875,
+      "y": 2322.57421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9167.8203125,
+      "y": 2338.8037109375
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 4,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9210.927734375,
+      "y": 2412.63525390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9209.251953125,
+      "y": 2411.69775390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9214.5478515625,
+      "y": 2404.44384765625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9217.529296875,
+      "y": 2405.54052734375
+    },
+    {
+      "action": "log_output",
+      "action_params": "等电梯18s",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9217.529296875,
+      "y": 2405.54052734375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(18);",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9217.529296875,
+      "y": 2405.54052734375
+    },
+    {
+      "action": "log_output",
+      "action_params": "等电梯上行20s",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9223.52734375,
+      "y": 2399.81298828125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);wait(20);",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9223.52734375,
+      "y": 2399.81298828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9228.5888671875,
+      "y": 2408.81787109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9244.017578125,
+      "y": 2405.435546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9261.48828125,
+      "y": 2410.0830078125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9264.228515625,
+      "y": 2420.70166015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 16,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9245.451171875,
+      "y": 2436.966796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 17,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9222.8720703125,
+      "y": 2462.87451171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 18,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9226.966796875,
+      "y": 2480.80615234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 19,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9215.392578125,
+      "y": 2494.6689453125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 20,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9212.34765625,
+      "y": 2520.244140625
+    }
+  ]
+}
