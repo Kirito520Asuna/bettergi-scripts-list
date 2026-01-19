@@ -1,0 +1,94 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768845081126,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-逐浪野-锚点-0_10",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9775.111328125,
+      "y": 5817.21484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9758.890625,
+      "y": 5811.86279296875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9682.978515625,
+      "y": 5842.935546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 9623.94921875,
+      "y": 5871.1044921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9607.9306640625,
+      "y": 5877.82666015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9595.224609375,
+      "y": 5871.541015625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "2500",
+      "id": 7,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9541.10546875,
+      "y": 5866.4189453125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9540.3828125,
+      "y": 5864.91796875
+    }
+  ]
+}
