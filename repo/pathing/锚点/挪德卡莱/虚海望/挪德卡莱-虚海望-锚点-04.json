@@ -1,0 +1,76 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768849066716,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-虚海望-锚点-04",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9562.3671875,
+      "y": 5320.3408203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9581.0595703125,
+      "y": 5360.3662109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9576.4140625,
+      "y": 5378.1533203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9579.708984375,
+      "y": 5411.4794921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9563.255859375,
+      "y": 5422.15869140625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F)",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9550.986328125,
+      "y": 5421.271484375
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768849068883,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-虚海望-锚点-05",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9550.986328125,
+      "y": 5421.271484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9535.34765625,
+      "y": 5421.365234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9518.90625,
+      "y": 5436.97607421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9497.7578125,
+      "y": 5465.97509765625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9497.634765625,
+      "y": 5495.6142578125
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 6,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9497.919921875,
+      "y": 5515.76708984375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9496.328125,
+      "y": 5520.11328125
+    }
+  ]
+}
