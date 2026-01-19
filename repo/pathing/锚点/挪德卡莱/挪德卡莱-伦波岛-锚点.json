@@ -9,7 +9,7 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768835316633,
+    "last_modified_time": 1768836700178,
     "map_match_method": "",
     "map_name": "Teyvat",
     "name": "挪德卡莱-伦波岛-锚点",
@@ -1709,6 +1709,106 @@
       "type": "path",
       "x": 9266.275390625,
       "y": 2478.1064453125
+    },
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 189,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9208.169921875,
+      "y": 2526.283203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 190,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9181.3271484375,
+      "y": 2565.9833984375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 191,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9184.5400390625,
+      "y": 2598.34765625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 192,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9200.3203125,
+      "y": 2660.96484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 193,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9264.671875,
+      "y": 2669.7060546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 194,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9273.890625,
+      "y": 2678.7431640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 195,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9273.05859375,
+      "y": 2733.27685546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 196,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9196.943359375,
+      "y": 2821.103515625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(5);",
+      "id": 197,
+      "locked": false,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9187.0400390625,
+      "y": 2840.3369140625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 198,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9187.0400390625,
+      "y": 2840.3369140625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 199,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9187.8408203125,
+      "y": 2844.955078125
     }
   ]
 }
