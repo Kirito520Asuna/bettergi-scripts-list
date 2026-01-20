@@ -1,0 +1,69 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768923309375,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-帕哈岛-锚点-06",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9704.8037109375,
+      "y": 3131.9912109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9731.1494140625,
+      "y": 3121.04736328125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "run",
+      "type": "path",
+      "x": 9785.6259765625,
+      "y": 3074.3037109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9826.15625,
+      "y": 3032.45849609375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 5,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9822.341796875,
+      "y": 3026.74462890625
+    }
+  ]
+}

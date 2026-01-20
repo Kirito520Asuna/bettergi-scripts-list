@@ -1,0 +1,184 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768923322135,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-帕哈岛-锚点-11",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9594.8876953125,
+      "y": 3398.123046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9585.126953125,
+      "y": 3411.291015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9601.07421875,
+      "y": 3434.79150390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9639.26171875,
+      "y": 3452.5625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9646.29296875,
+      "y": 3471.2607421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9649.875,
+      "y": 3477.478515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9724.9482421875,
+      "y": 3512.8369140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9751.7607421875,
+      "y": 3542.2431640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9845.078125,
+      "y": 3561.998046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9845.64453125,
+      "y": 3554.0576171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9850.0830078125,
+      "y": 3552.361328125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 9858.498046875,
+      "y": 3541.76708984375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 9860.4033203125,
+      "y": 3540.8349609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9860.109375,
+      "y": 3544.34814453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9861.640625,
+      "y": 3568.9541015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 16,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9864.1962890625,
+      "y": 3575.9560546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 17,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9871.16796875,
+      "y": 3585.3466796875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 18,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9873.001953125,
+      "y": 3594.40576171875
+    }
+  ]
+}

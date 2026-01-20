@@ -1,0 +1,210 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1768923306922,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "挪德卡莱-帕哈岛-锚点-05",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9550.4296875,
+      "y": 3089.919921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9554.03125,
+      "y": 3120.4814453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9553.447265625,
+      "y": 3120.978515625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(T);",
+      "id": 4,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 9554.4111328125,
+      "y": 3120.701171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9559.9482421875,
+      "y": 3117.27490234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "locked": false,
+      "move_mode": "run",
+      "type": "path",
+      "x": 9608.892578125,
+      "y": 3171.8134765625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9615.744140625,
+      "y": 3191.7646484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9627.087890625,
+      "y": 3196.85986328125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9631.09765625,
+      "y": 3195.7890625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9634.876953125,
+      "y": 3189.9375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9636.099609375,
+      "y": 3186.91162109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9636.3427734375,
+      "y": 3184.2109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "locked": false,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 9638.7939453125,
+      "y": 3181.4951171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 14,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9639.474609375,
+      "y": 3180.7724609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9648.4423828125,
+      "y": 3174.4853515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 16,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9650.8857421875,
+      "y": 3172.40478515625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "200",
+      "id": 17,
+      "locked": false,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9665.3359375,
+      "y": 3173.95849609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 18,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9708.1123046875,
+      "y": 3139.33349609375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F);",
+      "id": 19,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9704.8037109375,
+      "y": 3131.9912109375
+    }
+  ]
+}
