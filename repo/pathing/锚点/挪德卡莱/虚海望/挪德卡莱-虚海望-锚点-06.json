@@ -9,10 +9,10 @@
     "bgi_version": "0.45.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1768986238648,
+    "last_modified_time": 1768986136974,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "诺德卡莱-烟硌山峰-锚点-01",
+    "name": "挪德卡莱-虚海望-锚点-06",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,17 +24,17 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 9872.375,
-      "y": 6076.67333984375
+      "x": 9496.328125,
+      "y": 5520.11328125
     },
     {
-      "action": "",
-      "action_params": "",
+      "action": "stop_flying",
+      "action_params": "200",
       "id": 2,
-      "move_mode": "walk",
+      "move_mode": "fly",
       "type": "path",
-      "x": 9852.712890625,
-      "y": 6066.65966796875
+      "x": 9460.08984375,
+      "y": 5533.13671875
     },
     {
       "action": "",
@@ -42,8 +42,8 @@
       "id": 3,
       "move_mode": "walk",
       "type": "path",
-      "x": 9854.947265625,
-      "y": 6013.63623046875
+      "x": 9437.771484375,
+      "y": 5531.185546875
     },
     {
       "action": "",
@@ -51,8 +51,8 @@
       "id": 4,
       "move_mode": "walk",
       "type": "path",
-      "x": 9843.91015625,
-      "y": 5978.763671875
+      "x": 9424.927734375,
+      "y": 5524.4443359375
     },
     {
       "action": "",
@@ -60,8 +60,8 @@
       "id": 5,
       "move_mode": "walk",
       "type": "path",
-      "x": 9869.03125,
-      "y": 5954.7890625
+      "x": 9404.541015625,
+      "y": 5517.087890625
     },
     {
       "action": "",
@@ -69,8 +69,8 @@
       "id": 6,
       "move_mode": "walk",
       "type": "path",
-      "x": 9903.75,
-      "y": 5942.3125
+      "x": 9383.451171875,
+      "y": 5499.0654296875
     },
     {
       "action": "",
@@ -78,17 +78,26 @@
       "id": 7,
       "move_mode": "walk",
       "type": "path",
-      "x": 9893.5673828125,
-      "y": 5913.4541015625
+      "x": 9371.27734375,
+      "y": 5480.400390625
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(1);keypress(F);",
+      "action": "",
+      "action_params": "",
       "id": 8,
       "move_mode": "walk",
       "type": "path",
-      "x": 9902.673828125,
-      "y": 5911.212890625
+      "x": 9363.109375,
+      "y": 5445.21875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1);keypress(F)",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9353.9931640625,
+      "y": 5440.73974609375
     }
   ]
 }
