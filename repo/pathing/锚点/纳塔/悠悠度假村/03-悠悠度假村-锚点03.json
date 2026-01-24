@@ -187,7 +187,7 @@
       "type": "target",
       "move_mode": "walk",
       "action": "combat_script",
-      "action_params": "keypress(f)"
+      "action_params": "wait(1);keypress(f)"
     }
   ]
 }
