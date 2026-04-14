@@ -1,0 +1,131 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1776140371053,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "风息山-08",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": -530.3125,
+      "y": 3875.55224609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -482.029296875,
+      "y": 3884.7998046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -464.6328125,
+      "y": 3878.65478515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -432.3125,
+      "y": 3886.4033203125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -407.193359375,
+      "y": 3873.47216796875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -392.546875,
+      "y": 3863.49609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -338.73046875,
+      "y": 3829.59521484375
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "2000",
+      "id": 8,
+      "move_mode": "fly",
+      "type": "path",
+      "x": -301.9375,
+      "y": 3810.9423828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -261.91015625,
+      "y": 3784.431640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -236.94921875,
+      "y": 3782.81103515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -213.0078125,
+      "y": 3791.0205078125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f)",
+      "id": 12,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -212.037109375,
+      "y": 3791.1552734375
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1776140358117,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "风息山-05",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": -202.279296875,
+      "y": 3498.84912109375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -215.806640625,
+      "y": 3507.626953125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -226.826171875,
+      "y": 3521.7177734375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -251.751953125,
+      "y": 3523.11669921875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -271.7421875,
+      "y": 3541.2548828125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -277.251953125,
+      "y": 3540.74853515625
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "1000",
+      "id": 7,
+      "move_mode": "fly",
+      "type": "path",
+      "x": -291.126953125,
+      "y": 3542.7734375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -293.353515625,
+      "y": 3544.62744140625
+    }
+  ]
+}

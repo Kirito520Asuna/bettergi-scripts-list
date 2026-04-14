@@ -1,0 +1,112 @@
+﻿{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1776140364111,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "风息山-06",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": -202.275390625,
+      "y": 3498.85205078125
+    },
+    {
+      "action": "log_output",
+      "action_params": "将触发任务请手动退出",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -216.580078125,
+      "y": 3509.3896484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -227.63671875,
+      "y": 3521.96240234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -251.63671875,
+      "y": 3523.69970703125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -268.826171875,
+      "y": 3540.482421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -267.0234375,
+      "y": 3565.80615234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -255.736328125,
+      "y": 3582.177734375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -257.42578125,
+      "y": 3584.103515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -253.732421875,
+      "y": 3587.05712890625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f)",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": -252.365234375,
+      "y": 3589.03955078125
+    }
+  ]
+}
