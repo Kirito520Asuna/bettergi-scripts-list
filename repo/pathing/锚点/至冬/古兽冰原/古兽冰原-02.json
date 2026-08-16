@@ -1,0 +1,188 @@
+{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1786893668168,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "古兽冰原-02",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 7669.0713,
+      "y": 7720.9507
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7684.8936,
+      "y": 7714.9888
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 7691.4346,
+      "y": 7706.5786
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 7707.876,
+      "y": 7719.2461
+    },
+    {
+      "action": "log_output",
+      "action_params": "前往列车站台 等待列车进站",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7713.248,
+      "y": 7724.8975
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f),wait(21)",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7714.3916,
+      "y": 7726.9116
+    },
+    {
+      "action": "log_output",
+      "action_params": "进入列车",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7712.5781,
+      "y": 7724.8423
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f),wait(1)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7710.6074,
+      "y": 7725.9399
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7708.4336,
+      "y": 7730.0625
+    },
+    {
+      "action": "log_output",
+      "action_params": "等待列车前往下一站",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7707.7236,
+      "y": 7729.7476
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(140),keypress(f),wait(1)",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7706.6123,
+      "y": 7729.8706
+    },
+    {
+      "action": "log_output",
+      "action_params": "离开列车",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7804.2168,
+      "y": 8550.6768
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7803.6133,
+      "y": 8548.2676
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f),wait(1)",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7804.4561,
+      "y": 8548.1201
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7803.7441,
+      "y": 8548.1123
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 16,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7802.1475,
+      "y": 8541.6445
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 17,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7796.6455,
+      "y": 8527.5869
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 18,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7814.792,
+      "y": 8523.833
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f)",
+      "id": 19,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7816.2373,
+      "y": 8525.458
+    }
+  ]
+}
