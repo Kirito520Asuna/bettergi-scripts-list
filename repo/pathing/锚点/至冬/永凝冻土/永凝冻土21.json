@@ -1,0 +1,154 @@
+{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1786967549433,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "永凝冻土21",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 7812.25,
+      "y": 8525.3125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7794.375,
+      "y": 8527.375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7798.584,
+      "y": 8540.2578
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7805.1729,
+      "y": 8541.6289
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7818.2217,
+      "y": 8540.0342
+    },
+    {
+      "action": "log_output",
+      "action_params": "前往列车站台 等待列车进站",
+      "id": 6,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7827.9277,
+      "y": 8538.3281
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f)",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7827.0957,
+      "y": 8539.4004
+    },
+    {
+      "action": "log_output",
+      "action_params": "进入列车",
+      "id": 8,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 7830.0146,
+      "y": 8539.7363
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(24)",
+      "id": 9,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7830.0146,
+      "y": 8539.7363
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f),wait(1)",
+      "id": 10,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7830.4443,
+      "y": 8542.7881
+    },
+    {
+      "action": "log_output",
+      "action_params": "等待列车到下一站",
+      "id": 11,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7831.0781,
+      "y": 8546.2432
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "locked": false,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 7831.4717,
+      "y": 8547.2773
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(145),keypress(f),wait(1),keydown(w),wait(2),keyup(w),wait(1)",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7831.6592,
+      "y": 8547.9902
+    },
+    {
+      "action": "log_output",
+      "action_params": "地图不支持分层请手动激活锚点",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "orientation",
+      "x": 6873.8457,
+      "y": 9213.8984
+    }
+  ]
+}
