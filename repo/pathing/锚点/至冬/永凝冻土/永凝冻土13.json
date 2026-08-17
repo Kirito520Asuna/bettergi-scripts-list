@@ -1,0 +1,121 @@
+{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.63.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1786961314252,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "永凝冻土13",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 7133.873,
+      "y": 8961.8008
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7135.3555,
+      "y": 8970.9326
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7111.3447,
+      "y": 8995.8662
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7092.2148,
+      "y": 9020.6729
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7055.2695,
+      "y": 9030.6582
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 7034.8223,
+      "y": 9002.1211
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6998.9404,
+      "y": 9002.5996
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6963.0674,
+      "y": 9000.6182
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6947.0195,
+      "y": 9012.9414
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6930.0713,
+      "y": 9054.0098
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f),wait(5),keypress(ESCAPE)",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6927.1318,
+      "y": 9053.1797
+    }
+  ]
+}
