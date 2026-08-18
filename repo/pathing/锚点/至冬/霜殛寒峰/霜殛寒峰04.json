@@ -1,0 +1,166 @@
+{
+  "info": {
+    "authors": [
+      {
+        "links": "https://github.com/Kirito520Asuna",
+        "name": "云端客"
+      }
+    ],
+    "bgi_version": "0.63.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1787055998383,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "霜殛寒峰04",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "force_tp",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 6651.75,
+      "y": 8324.5625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6644.1875,
+      "y": 8309.4375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6668.9375,
+      "y": 8308.75
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6683.375,
+      "y": 8345.875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6692.3125,
+      "y": 8349.3125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6697.125,
+      "y": 8361
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6704.6875,
+      "y": 8363.0625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6754.875,
+      "y": 8345.875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6768.4053,
+      "y": 8352.2021
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6789.8936,
+      "y": 8364.4922
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6804.3584,
+      "y": 8368.4219
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 6832.9785,
+      "y": 8367.5742
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "2500",
+      "id": 13,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 6873.709,
+      "y": 8393.8447
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 14,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6886.4316,
+      "y": 8400.6025
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6889.9736,
+      "y": 8395.3887
+    },
+    {
+      "action": "combat_script",
+      "action_params": "wait(1),keypress(f),wait(5),keypress(ESCAPE)",
+      "id": 16,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 6890.6855,
+      "y": 8390.085
+    }
+  ]
+}
