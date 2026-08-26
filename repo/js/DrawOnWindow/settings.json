@@ -1,0 +1,26 @@
+[
+   {
+       "name": "x",
+       "type": "input-text",
+       "label": "x",
+       "default": "0"
+   },
+   {
+       "name": "y",
+       "type": "input-text",
+       "label": "y",
+       "default": "0"
+   },
+   {
+       "name": "w",
+       "type": "input-text",
+       "label": "w",
+       "default": "1980"
+   },
+   {
+      "name": "h",
+      "type": "input-text",
+      "label": "h",
+      "default": "1080"
+   }
+]

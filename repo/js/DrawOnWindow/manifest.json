@@ -1,0 +1,14 @@
+{
+  "name": "画框",
+  "version": "0.0.1",
+  "description": "画框",
+  "settings_ui": "settings.json",
+  "main": "main.js",
+  "authors": [
+    {
+      "name": "云端客",
+      "links": "https://github.com/Kirito520Asuna"
+    }
+  ],
+  "dependencies": []
+}
